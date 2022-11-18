@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Gustavo!!</h1>
 <h3 align="center">Computer science student in Federal Technological University of Paraná</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quieregatog" alt="quieregatog" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quieregatog&theme=dark" alt="quieregatog" /></a> </p>
 
 - I’m looking to collaborate on [Project of Lindeiros](http://governanca.lindeiros.org.br/)
 - 👨‍💻 All of my projects are available at [https://github.com/GustavoQuieregato](https://github.com/GustavoQuieregato)
