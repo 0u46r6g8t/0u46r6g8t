@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Gustavo Silva Quieregato</h1>
-<h3 align="center">Development in typescript, javascript, and Hacker Ético Associate</h3>
+<h1 align="center">Hello, I'm Gustavo!!</h1>
+<h3 align="center">Computer science student at UTFPR - Santa Helena (PR), obsessed with knowledge in the areas of software development, information security and project management, as well as Ethical Hacker Associate by IBSEC</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quieregatog" alt="quieregatog" /></a> </p>
 
