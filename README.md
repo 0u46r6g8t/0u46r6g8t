@@ -7,7 +7,12 @@
 - 👨‍💻 All of my projects are available at [https://github.com/GustavoQuieregato](https://github.com/GustavoQuieregato)
 </br>
 
-"Computer science student at UTFPR - Santa Helena (PR), obsessed with knowledge in the areas of software development, information security and project management, as well as Ethical Hacker Associate by IBSEC"
+- Skill
+
+  * Development Backend to NestJS, Typescript, TypeORM, PostgreSQL
+  * Development Frontend with React and Redux
+  * Security Information 
+  * Methodology Agility
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=quieregatog&theme=dark" alt="quieregatog" />
