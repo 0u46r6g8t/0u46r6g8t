@@ -19,3 +19,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=quieregatog&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="quieregatog" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=quieregatog&show_icons=true&theme=dark&hide_border=true&locale=en" alt="quieregatog" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=quieregatog&theme=dark" alt="quieregatog" /></p>
