@@ -19,8 +19,8 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=quieregatog&show_icons=true&theme=dark&hide_border=true&locale=en" alt="quieregatog" /></p>
 </br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Go to connect to me</h3>
+<p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gustavo-silva-838b83131" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gustavo-silva-838b83131" height="30" width="40" /></a>
 <a href="https://discord.gg/Quieregato#8594" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Quieregato#8594" height="30" width="40" /></a>
  <a href="https://stackoverflow.com/users/quieregatog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="quieregatog" height="30" width="40" /></a>
