@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Gustavo!!</h1>
-<h3 align="center">Computer science student in Federal Technological University of Paraná (Santa Helena - PR)/h3>
+<h3 align="center">Computer science student in Federal Technological University of Paraná</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quieregatog" alt="quieregatog" /></a> </p>
 
