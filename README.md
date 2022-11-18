@@ -8,9 +8,10 @@
 - 👨‍💻 All of my projects are available at [https://github.com/GustavoQuieregato](https://github.com/GustavoQuieregato)
 </br>
 
-<center>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=quieregatog&theme=dark" alt="quieregatog" /></p>  
-</center>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=quieregatog&theme=dark" alt="quieregatog" />
+</p>  
+
 </br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
