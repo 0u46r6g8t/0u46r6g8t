@@ -6,7 +6,7 @@
 - I’m looking to collaborate on [Project of Lindeiros](http://governanca.lindeiros.org.br/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/GustavoQuieregato](https://github.com/GustavoQuieregato)
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=quieregatog&theme=dark" alt="quieregatog" /></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gustavo-silva-838b83131" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gustavo-silva-838b83131" height="30" width="40" /></a>
@@ -20,4 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=quieregatog&show_icons=true&theme=dark&hide_border=true&locale=en" alt="quieregatog" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=quieregatog&theme=dark" alt="quieregatog" /></p>
+
