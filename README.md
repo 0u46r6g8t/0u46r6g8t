@@ -23,6 +23,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gustavo-silva-838b83131" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gustavo-silva-838b83131" height="30" width="40" /></a>
 <a href="https://discord.gg/Quieregato#8594" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Quieregato#8594" height="30" width="40" /></a>
+ <a href="https://stackoverflow.com/users/quieregatog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="quieregatog" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
