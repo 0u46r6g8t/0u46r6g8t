@@ -7,7 +7,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/GustavoQuieregato](https://github.com/GustavoQuieregato)
 </br>
 
-- Skill
+### Skill
 
   * Development Backend to NestJS, Typescript, TypeORM, PostgreSQL
   * Development Frontend with React and Redux
