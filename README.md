@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quieregatog&label=Profile%20views&color=0e75b6&style=flat" alt="quieregatog" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quieregatog" alt="quieregatog" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quieregatog" alt="quieregatog" /></a> </p>
 
 - I’m looking to collaborate on [Project of Lindeiros](http://governanca.lindeiros.org.br/)
 
