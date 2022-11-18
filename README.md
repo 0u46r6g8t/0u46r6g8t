@@ -1,12 +1,13 @@
 <h1 align="center">Hello, I'm Gustavo!!</h1>
-<h3 align="center">Computer science student at UTFPR - Santa Helena (PR), obsessed with knowledge in the areas of software development, information security and project management, as well as Ethical Hacker Associate by IBSEC</h3>
+<h3 align="center">Interested in the areas of information security using best practices and also in software development such as backend and frontend</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quieregatog" alt="quieregatog" /></a> </p>
 
 - I’m looking to collaborate on [Project of Lindeiros](http://governanca.lindeiros.org.br/)
-
 - 👨‍💻 All of my projects are available at [https://github.com/GustavoQuieregato](https://github.com/GustavoQuieregato)
 </br>
+
+"Computer science student at UTFPR - Santa Helena (PR), obsessed with knowledge in the areas of software development, information security and project management, as well as Ethical Hacker Associate by IBSEC"
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=quieregatog&theme=dark" alt="quieregatog" />
