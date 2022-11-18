@@ -5,9 +5,8 @@
 
 - I’m looking to collaborate on [Project of Lindeiros](http://governanca.lindeiros.org.br/)
 - 👨‍💻 All of my projects are available at [https://github.com/GustavoQuieregato](https://github.com/GustavoQuieregato)
-</br>
-
-### Skill
+- 
+## Skill(s)
 
   * Development Backend to NestJS, Typescript, TypeORM, PostgreSQL
   * Development Frontend with React and Redux
